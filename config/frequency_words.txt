@@ -53,6 +53,12 @@ ios
 ai
 !gai
 人工智能
+智谱清言
+GLM
+豆包
+Qwen
+Codex
+
 
 自动驾驶
 
